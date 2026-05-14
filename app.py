@@ -14,7 +14,7 @@ st.write("Elaborado por: Carlos Carrillo")
 
  
 
-st.sidebar.image("DMC.png")
+st.sidebar.image("antapaccay.jpg")
 
  
 

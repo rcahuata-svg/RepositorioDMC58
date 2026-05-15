@@ -58,6 +58,20 @@ elif sesion == "Sesión 3":
 
   st.write("Bienvenido la sesión 3")
 
+inicio_rango = st.slider("Selecione un valor",min_value = 0 , max_value=20, value =7 )
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 else:
